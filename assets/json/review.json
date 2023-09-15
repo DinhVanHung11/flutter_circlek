@@ -1,0 +1,170 @@
+[
+    {
+        "productId": "1",
+        "author": "Nguyễn Văn Anh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "1",
+        "author": "Nguyễn Văn Trung",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "1",
+        "author": "Đỗ Tuấn Tài",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "2",
+        "author": "Vũ Gia Linh",
+        "rating": 5,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "2",
+        "author": "Hà Thị Chinh",
+        "rating": 3,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "2",
+        "author": "Phan Thu Uyên",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "3",
+        "author": "Nguyễn Đăng Trường",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "3",
+        "author": "Trần Công Dũng",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "3",
+        "author": "Ninh La Văn Cảnh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "4",
+        "author": "Trần Công Vinh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "4",
+        "author": "Lưu Văn Hiển",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "4",
+        "author": "Nguyễn Thị Thanh Nga",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "5",
+        "author": "Nguyễn Văn Anh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "5",
+        "author": "Nguyễn Văn Trung",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "5",
+        "author": "Đỗ Tuấn Tài",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "6",
+        "author": "Vũ Gia Linh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "6",
+        "author": "Hà Thị Chinh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "6",
+        "author": "Phan Thu Uyên",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "7",
+        "author": "Nguyễn Đăng Trường",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "7",
+        "author": "Trần Công Dũng",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "7",
+        "author": "Ninh La Văn Cảnh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "8",
+        "author": "Trần Công Vinh",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "8",
+        "author": "Lưu Văn Hiển",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    },
+    {
+        "productId": "8",
+        "author": "Nguyễn Thị Thanh Nga",
+        "rating": 4,
+        "reviewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim.",
+        "liked": false
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id":"1",
+        "name": "Mỳ trộn xúc xich trứng chiên",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product1.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "Mới",
+        "rating": 5,
+        "sold": 21000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum ",
+        "addToCart": false
+    },
+    {
+        "id":"2",
+        "name": "Sandwich",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product2.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "Pre-order",
+        "rating": 4,
+        "sold": 9274,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum",
+        "addToCart": false
+    },
+    {
+        "id":"3",
+        "name": "Bia Heniken Silver",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product3.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "18+",
+        "rating": 4,
+        "sold": 57392,
+        "description": "Heineken là loại bia có hương vị đậm đà, khó quên và luôn bỏ xa các đối thủ cạnh tranh trong các cuộc thử nghiệm về chất lượng giữa các lọai bia. Trong số những người tham gia blind testing trong năm 2003, 90% cho biết họ sẽ chọn lại Bia Heineken (Hà Lan). Heineken được tạo ra bởi một nhóm người tận tâm theo đuổi chất lượng cao nhất, bảo tồn theo công thức phát minh ra ba thế hệ trước bởi gia đình Heineken. Hương vị của nó hơi chua chua, ngọt, hương thơm nhẹ, màu sắc tươi sáng và rõ nét, đặc biệt được làm từ nước tinh khiết, hoa bia và mạch nha lúa mạch, Heineken không chứa các chất phụ gia.",
+        "addToCart": false
+    },
+    {
+        "id":"4",
+        "name": "Sữa tươi cà phê",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product4.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "",
+        "rating": 5,
+        "sold": 21010,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum",
+        "addToCart": false
+    },
+    {
+        "id":"5",
+        "name": "Trà sữa Thái (xanh)",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product5.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "",
+        "rating": 4,
+        "sold": 21000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum",
+        "addToCart": false
+    },
+    {
+        "id":"6",
+        "name": "Xôi lá chuối",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product6.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "",
+        "rating": 3,
+        "sold": 21000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum",
+        "addToCart": false
+    },
+    {
+        "id":"7",
+        "name": "Trà đào",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product7.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "",
+        "rating": 5,
+        "sold": 21000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum",
+        "addToCart": false
+    },
+    {
+        "id":"8",
+        "name": "Mỳ ý Spageti",
+        "price": "23.000Đ",
+        "image":"assets/images/product/product8.png",
+        "imageDescription": "assets/images/product/details/details1.png",
+        "labelText": "Mới",
+        "rating": 4,
+        "sold": 21000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan vitae massa eget dictumst faucibus proin. Vestibulum rhoncus eu, aliquam pretium enim, ut commodo luctus nec. Lacus rhoncus auctor velit, non semper magna parturient. Eget id nulla ac massa nisl, fames adipiscing ipsum. Risus mattis at condimentum",
+        "addToCart": false
+    }
+]

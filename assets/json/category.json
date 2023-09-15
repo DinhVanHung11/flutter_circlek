@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name": "Hàng\n khuyến mãi",
+        "image":"assets/images/category/cate1.svg"
+    },
+    {
+        "id":"2",
+        "name": "Nước\n giải khát",
+        "image":"assets/images/category/cate2.svg"
+    },
+    {
+        "id":"3",
+        "name": "Snack\n & bánh kẹo",
+        "image":"assets/images/category/cate3.svg"
+    },
+    {
+        "id":"4",
+        "name": "Sữa & các sp\n từ sữa",
+        "image":"assets/images/category/cate4.svg"
+    },
+    {
+        "id":"5",
+        "name": "Thực phẩm\n khô",
+        "image":"assets/images/category/cate5.svg"
+    },
+    {
+        "id":"6",
+        "name": "Sức khỏe\n & làm đẹp",
+        "image":"assets/images/category/cate6.svg"
+    },
+    {
+        "id":"7",
+        "name": "Đồ dùng\n gia đình",
+        "image":"assets/images/category/cate7.svg"
+    },
+    {
+        "id":"8",
+        "name": "Tham gia\n CK Club",
+        "image":"assets/images/category/cate8.png"
+    }
+]
